@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm Ahmed AL-Akhaly</h1>
 <p align="center">
   🎓 Informatics Student @ Universitas Negeri Malang <br>
   💻 Web Developer | Backend Enthusiast <br>
