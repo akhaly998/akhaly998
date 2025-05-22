@@ -45,7 +45,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="postman"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva"/>
-
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/XAMPP_Logo.svg" height="40" alt="xampp"/>
+  
 </div>
 
 ---
