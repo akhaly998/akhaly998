@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m an Informatics student at Universitas Islam Indonesia with a passion for web development. Currently, I’m honing my skills as a web developer.
+I’m an Informatics student at Universitas Negeri Malang with a passion for web development. Currently, I’m honing my skills as a web developer.
 
 
 # 💻 Tech Stack:
